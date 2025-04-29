@@ -1,5 +1,5 @@
 {
-  "name": "sdk",
+  "name": "library-sdk",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
